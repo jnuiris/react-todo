@@ -19,13 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a0da176-2398-4f27-b052-a3fcdc15e8e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="7a0da176-2398-4f27-b052-a3fcdc15e8e5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +65,7 @@
       <workItem from="1653494149877" duration="1009000" />
       <workItem from="1653527782973" duration="544000" />
       <workItem from="1653551494761" duration="1194000" />
-      <workItem from="1653616165621" duration="9106000" />
+      <workItem from="1653616165621" duration="9463000" />
     </task>
     <servers />
   </component>
@@ -95,6 +89,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="508" y="208" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1653618254543" />
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1653630457424">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="93" y="93" width="1350" height="630" key="DiffContextDialog/0.0.1536.816@0.0.1536.816" timestamp="1653630457424" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1653495166004">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
